@@ -6,7 +6,7 @@
 *.swp
 .deps
 .libs
-Makefile
+# Makefile
 Makefile.in
 
 core
@@ -78,3 +78,7 @@ core
 /m4/.gitignore
 /m4/gnulib-cache.m4
 /snippet/
+
+/zig-cache/
+/zig-out/
+/nano
